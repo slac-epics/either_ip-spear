@@ -1,0 +1,17 @@
+#==============================================================
+#
+#  Name: RELEASE_NOTES
+#
+#  Rem:  This files describes release notes for 
+#        the ether_ip epics module.  
+# 
+#        2-Aug-2017: S.Condamoor:
+#           Initial import from CVS 'modbus' MAIN_TRUNK into git 'modbus-spear-git'
+#			Start with the version ether_ip-R2-26-spear2
+#           Built for EPICS base 3.15
+#--------------------------------------------------------------
+#
+#
+ether_ip-spear-git: 02-Aug-2017
+		Initial Import from CVS to git and built for  EPICS base 3.15.5-1.0.5
+
