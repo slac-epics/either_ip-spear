@@ -10,8 +10,10 @@
 #			Start with the version ether_ip-R2-26-spear2
 #           Built for EPICS base 3.15
 #--------------------------------------------------------------
-#
-#
+
+R2.26.2-0.0.0: 06-Sep-2017
+		First tagged release
+
 ether_ip-spear-git: 02-Aug-2017
 		Initial Import from CVS to git and built for  EPICS base 3.15.5-1.0.5
 

@@ -6,3 +6,5 @@ dbd
 include
 lib
 envPaths
+build*.log*
+
