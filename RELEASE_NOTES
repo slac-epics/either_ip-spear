@@ -11,6 +11,9 @@
 #           Built for EPICS base 3.15
 #--------------------------------------------------------------
 
+R2.26.2-0.0.1  M. Dunning 26-Apr-2018
+    Build with base R3.15.5-1.0.13
+
 R2.26.2-0.0.0: 06-Sep-2017
 		First tagged release
 
