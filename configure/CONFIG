@@ -5,6 +5,8 @@ include $(TOP)/configure/CONFIG_APP
 
 ifeq (solaris-sparc-gnu, $(EPICS_HOST_ARCH))
 CROSS_COMPILER_TARGET_ARCHS = 
+else
+CROSS_COMPILER_TARGET_ARCHS = $(CROSS_COMPILER_TARGET_VME_NEW)
 endif
 
 # Use this when your IOC and the host use different paths

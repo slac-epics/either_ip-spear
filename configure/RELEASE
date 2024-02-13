@@ -6,7 +6,7 @@
 # as well as the 'share' section where the EtherIP driver
 # is located
 
-include $(TOP)/../../RELEASE_SITE_3.15.5-1.1
+-include $(TOP)/../../RELEASE_SITE_7.0.3.1-1.0
 
-EPICS_BASE=$(EPICS_SITE_TOP)/base/$(BASE_MODULE_VERSION)
+EPICS_BASE=$(BASE_SITE_TOP)/$(BASE_MODULE_VERSION)
 
