@@ -11,6 +11,9 @@
 #           Built for EPICS base 3.15
 #--------------------------------------------------------------
 
+R3.0.0  S. Condamoor 14-Aug-2024
+    Build with base 7.0.3.1-1.0
+
 R2.26.2-0.0.2  M. Dunning 16-Jul-2019
     Build with base R3.15.5-1.1
 
